@@ -1,0 +1,5 @@
+-- Get pending invoices
+SELECT * FROM invoices WHERE status = 'Pending';
+
+-- Total paid amount
+SELECT SUM(amount) FROM invoices WHERE status = 'Paid';

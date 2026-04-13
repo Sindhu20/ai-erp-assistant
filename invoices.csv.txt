@@ -1,0 +1,3 @@
+invoice_id,vendor,amount,status,date
+1001,ABC Ltd,5000,Paid,2026-01-01
+1002,XYZ Inc,12000,Pending,2026-01-05
